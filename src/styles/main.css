@@ -840,10 +840,6 @@ video {
   justify-content: center;
 }
 
-.justify-between {
-  justify-content: space-between;
-}
-
 .justify-evenly {
   justify-content: space-evenly;
 }
@@ -870,10 +866,6 @@ video {
 
 .font-extrabold {
   font-weight: 800;
-}
-
-.h-0 {
-  height: 0;
 }
 
 .h-3 {
